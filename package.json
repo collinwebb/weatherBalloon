@@ -20,6 +20,7 @@
     "gulp-mocha": "latest",
     "run-sequence": "latest",
     "supertest": "latest",
-    "gulp-watch": "latest"
+    "gulp-watch": "latest",
+    "request": "latest"
   }
 }
